@@ -1,0 +1,6 @@
+commit ddaa09110392a4419fecbb6d3022bede89b7e841
+Merge: da5e0e0cd 02b0b752e
+Author: Tom Poole <tom@juce.com>
+Date:   Mon Dec 20 11:16:16 2021 +0000
+
+    JUCE version 6.1.4
